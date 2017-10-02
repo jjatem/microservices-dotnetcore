@@ -1,0 +1,10 @@
+/home/jjatem/Documents/dotnetcore-projects/microservices-dotnetcore/bin/Debug/netcoreapp2.0/helloconsole.deps.json
+/home/jjatem/Documents/dotnetcore-projects/microservices-dotnetcore/bin/Debug/netcoreapp2.0/helloconsole.runtimeconfig.json
+/home/jjatem/Documents/dotnetcore-projects/microservices-dotnetcore/bin/Debug/netcoreapp2.0/helloconsole.runtimeconfig.dev.json
+/home/jjatem/Documents/dotnetcore-projects/microservices-dotnetcore/bin/Debug/netcoreapp2.0/helloconsole.dll
+/home/jjatem/Documents/dotnetcore-projects/microservices-dotnetcore/bin/Debug/netcoreapp2.0/helloconsole.pdb
+/home/jjatem/Documents/dotnetcore-projects/microservices-dotnetcore/obj/Debug/netcoreapp2.0/helloconsole.csproj.CoreCompileInputs.cache
+/home/jjatem/Documents/dotnetcore-projects/microservices-dotnetcore/obj/Debug/netcoreapp2.0/helloconsole.AssemblyInfoInputs.cache
+/home/jjatem/Documents/dotnetcore-projects/microservices-dotnetcore/obj/Debug/netcoreapp2.0/helloconsole.AssemblyInfo.cs
+/home/jjatem/Documents/dotnetcore-projects/microservices-dotnetcore/obj/Debug/netcoreapp2.0/helloconsole.dll
+/home/jjatem/Documents/dotnetcore-projects/microservices-dotnetcore/obj/Debug/netcoreapp2.0/helloconsole.pdb
